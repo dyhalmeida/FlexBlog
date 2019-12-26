@@ -1,0 +1,19 @@
+/* Time and address information */
+.info-container {
+  background-color: #122ab2;
+}
+
+.info-content {
+  max-width: 960px;
+  display: flex;
+  margin: 0 auto;
+  padding: 10px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.info-content p,
+.info-content a {
+  margin: 0 10px 0 10px;
+  color: #ffffff;
+}
