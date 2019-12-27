@@ -17,3 +17,43 @@
   margin: 0 10px 0 10px;
   color: #ffffff;
 }
+
+/* Header and Menu */
+.header-container {
+  background-color: #2c70ff;
+}
+
+.header-content {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 15px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-content a {
+  color: #ffffff;
+}
+
+.header-content .logo {
+  font-size: 2.25em;
+  font-weight: bold;
+  margin: 0 10px;
+}
+
+.header-content .menu ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header-content .menu a {
+  font-size: 1.25em;
+  display: block;
+  padding: 10px;
+}
+
+.header-content .menu a:hover {
+  color: #122ab2;
+}
