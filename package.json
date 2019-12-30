@@ -1,0 +1,28 @@
+{
+  "name": "flexblog",
+  "version": "1.0.0",
+  "description": "Blog construído para praticar os fundamentos do curso de Flexbox da Origamid",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyhalmeida/FlexBlog.git"
+  },
+  "keywords": [
+    "FlexBlog",
+    "FlexBox",
+    "CSS",
+    "CSS3"
+  ],
+  "author": "Diego Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyhalmeida/FlexBlog/issues"
+  },
+  "homepage": "https://github.com/dyhalmeida/FlexBlog#readme",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
