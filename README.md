@@ -5,10 +5,10 @@ FlexBlog
 
 <p align="center">Blog construído para praticar os fundamentos do curso de Flexbox da Origamid</p>
 
-
-![](C:\Users\diego.almeida.GRUPOCATA\Desktop\FlexBlog\img\flexblog.gif)
+![](https://github.com/dyhalmeida/FlexBlog/blob/master/img/flexblog.gif)
 
 ## Features
+
 - **HTML 5** — O HTML5 é o responsável por organizar e formatar páginas
 - **CSS3** — O CSS3 é o responsável por definir estilos em todos os aspectos de design
 - **Flexbox** — O Flexbox é um novo modo de layout em CSS3, projetado para leiautar aplicações complexas e páginas web
