@@ -18,3 +18,6 @@ FlexBlog
 1. Clone o respositório usando `git clone https://github.com/dyhalmeida/FlexBlog.git`
 2. Tenha o `Google Chrome` ou `Mozilla Firefox` instalado
 3. Abra com um duplo clique o arquivo `index.html` ou visite [Flexblog](https://dyhalmeida.github.io/FlexBlog/) para visualizar o projeto
+
+## Reference
+- [Flexbox - Guia Completo](https://origamid.com/projetos/flexbox-guia-completo/)
