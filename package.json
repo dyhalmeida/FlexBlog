@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/dyhalmeida/FlexBlog/issues"
   },
-  "homepage": "https://dyhalmeida.github.io/FlexBlog",
+  "homepage": "https://dyhalmeida.github.io/FlexBlog/",
   "devDependencies": {
     "gh-pages": "^2.1.1"
   }
